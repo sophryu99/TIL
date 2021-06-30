@@ -1,2 +1,2 @@
 # daily-scrum
-TIL Repository - Weekly
+**TIL** & **TW** tracked in Issue on a weekly basis
