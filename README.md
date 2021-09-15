@@ -1,2 +1,2 @@
-# daily-scrum
-**TIL** & **TW** tracked in Issue on a weekly basis
+# Today-I-Learned
+- Learnings kept track in Issues 
