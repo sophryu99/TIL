@@ -11,6 +11,8 @@ Archives of my daily learnings (kept track in the Issues tab)
 - [Neural Networks - Basics & Terminologies](https://github.com/sophryu99/TIL/issues/16)
 - [Word2vec - CBOW, Skip-gram](https://github.com/sophryu99/TIL/issues/14)
 
+
+
 **Scikit Learn Libraries**
   - [preprocessing.StandardScaler](https://github.com/sophryu99/TIL/issues/17)
 
