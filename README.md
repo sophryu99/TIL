@@ -12,7 +12,6 @@ Archives of my daily learnings (kept track in the Issues tab)
 - [Word2vec - CBOW, Skip-gram](https://github.com/sophryu99/TIL/issues/14)
 
 
-
 **Scikit Learn Libraries**
   - [preprocessing.StandardScaler](https://github.com/sophryu99/TIL/issues/17)
 
@@ -22,9 +21,11 @@ Archives of my daily learnings (kept track in the Issues tab)
 ## SQL
 - [Adding data from csv to sqlite tables](https://github.com/sophryu99/TIL/issues/5)
 - [sqlite: FULL JOIN with LEFT JOIN and UNION](https://github.com/sophryu99/TIL/issues/19)
+- [SQL Code snippets](https://github.com/sophryu99/algorithm/tree/master/sql)
 
 ## Back-end Development
 - [Sequelize Orm Operators](https://github.com/sophryu99/TIL/issues/9)
+- [Database Normalization](https://github.com/sophryu99/TIL/issues/33)
 
 ## Algorithm & Data Structures
 - [Big-O Analysis](https://github.com/sophryu99/TIL/issues/23)
@@ -40,3 +41,4 @@ Archives of my daily learnings (kept track in the Issues tab)
 - [enumerate()](https://github.com/sophryu99/TIL/issues/22)
 - [Binary -> int, Int -> binary](https://github.com/sophryu99/TIL/issues/21)
 - [Doubly Linked Lists](https://github.com/sophryu99/TIL/issues/18)
+- [String to Datetime](https://github.com/sophryu99/TIL/issues/32)
