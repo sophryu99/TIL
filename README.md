@@ -17,22 +17,28 @@ Archives of my daily learnings (kept track in the Issues tab)
 
 ### Statistics
 - [Data Types: Qualitative vs Quantitative](https://github.com/sophryu99/TIL/issues/15)
+- [Hypothesis Testing](https://github.com/sophryu99/TIL/issues/38)
+- [Confusion matrix](https://github.com/sophryu99/TIL/issues/37)
 
-## SQL
+## Database & SQL
 - [Adding data from csv to sqlite tables](https://github.com/sophryu99/TIL/issues/5)
 - [sqlite: FULL JOIN with LEFT JOIN and UNION](https://github.com/sophryu99/TIL/issues/19)
 - [SQL Code snippets](https://github.com/sophryu99/algorithm/tree/master/sql)
+- [Database Normalization](https://github.com/sophryu99/TIL/issues/33)
 
 ## Back-end Development
 - [Sequelize Orm Operators](https://github.com/sophryu99/TIL/issues/9)
-- [Database Normalization](https://github.com/sophryu99/TIL/issues/33)
 
 ## Algorithm & Data Structures
-- [Big-O Analysis](https://github.com/sophryu99/TIL/issues/23)
 - [Heapq, Priority Queue](https://github.com/sophryu99/TIL/issues/12)
-- [Sieve of Eratosthenes](https://github.com/sophryu99/TIL/issues/10)
-- [Doubly Linked Lists](https://github.com/sophryu99/TIL/issues/18)
+- [Graph](https://github.com/sophryu99/TIL/issues/34)
 - [Binary Search Tree Traversal](https://github.com/sophryu99/TIL/issues/20)
+- [Doubly Linked Lists](https://github.com/sophryu99/TIL/issues/18)
+- [Sieve of Eratosthenes](https://github.com/sophryu99/TIL/issues/10)
+- [Travelling Salesman problems](https://github.com/sophryu99/TIL/issues/36)
+- [NP-Complete](https://github.com/sophryu99/TIL/issues/35)
+- [Big-O Analysis](https://github.com/sophryu99/TIL/issues/23)
+
 
 ## Python basics
 - [Set](https://github.com/sophryu99/TIL/issues/7)
@@ -40,5 +46,4 @@ Archives of my daily learnings (kept track in the Issues tab)
 - [Pandas Dataframe basics](https://github.com/sophryu99/TIL/issues/11)
 - [enumerate()](https://github.com/sophryu99/TIL/issues/22)
 - [Binary -> int, Int -> binary](https://github.com/sophryu99/TIL/issues/21)
-- [Doubly Linked Lists](https://github.com/sophryu99/TIL/issues/18)
 - [String to Datetime](https://github.com/sophryu99/TIL/issues/32)
