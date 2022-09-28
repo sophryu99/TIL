@@ -25,6 +25,7 @@ Archives of my daily learnings (kept track in the Issues tab)
 - [sqlite: FULL JOIN with LEFT JOIN and UNION](https://github.com/sophryu99/TIL/issues/19)
 - [SQL Code snippets](https://github.com/sophryu99/algorithm/tree/master/sql)
 - [Database Normalization](https://github.com/sophryu99/TIL/issues/33)
+- [DBMS Joins: Theta, Natural, Equi](https://github.com/sophryu99/TIL/issues/41)
 
 ## Back-end Development
 - [Sequelize Orm Operators](https://github.com/sophryu99/TIL/issues/9)
